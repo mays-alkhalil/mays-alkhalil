@@ -50,8 +50,8 @@ Mentoring · Team Collaboration · Communication · Community Leadership
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mays-alkhalil&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=bb86fc" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mays-alkhalil&theme=tokyonight&ring=a855f7&fire=bb86fc" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mays-alkhalil&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=bb86fc&count_private=true&cache_seconds=60" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mays-alkhalil&theme=tokyonight&ring=a855f7&fire=bb86fc&currStreakNum=ffffff" />
 </p>
 
 ---
